@@ -4,6 +4,7 @@ Demo repo for interferometry lecture
 
 ## Course details
 On Moodle - 28xxxx Introduction to radio inteferometry (SoSe 2024)
+
 Github site - https://github.com/golamshaifullah/Radio_Interferometry
 
 ## Course textbook:
